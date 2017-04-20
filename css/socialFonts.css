@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 
 @font-face {
   font-family: "untitled-font-1";
@@ -52,4 +52,7 @@
 }
 .icon-spotify:before {
   content: "\64";
+}
+.icon-github-alt:before {
+  content: "\65";
 }
