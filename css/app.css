@@ -99,6 +99,7 @@ body{
     border-radius: 7px;
     right: 2vw;
     top: 3vh;
+    z-index: 10000;
 }
 
 section {
